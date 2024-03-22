@@ -1,2 +1,5 @@
-# 保研简历模板下载
-含doc和pdf，可自行下载适用
+<div>
+  <h2 align="center">
+      Awesome BAOYAN Resources
+  </h2>
+</div>
